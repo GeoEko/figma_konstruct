@@ -1,0 +1,29 @@
+:root {
+  --font-family: "Open Sans", sans-serif;
+  --second-family: "Bebas Neue", sans-serif;
+}
+html {
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin: 0;
+}
